@@ -1,0 +1,9 @@
+[submodule "TractorKit-Commander-Board"]
+	path = TractorKit-Commander-Board
+	url = git@github.com:open-agri/TractorKit-Commander-Board.git
+[submodule "TractorKit-EngineSense-Board"]
+	path = TractorKit-EngineSense-Board
+	url = git@github.com:open-agri/TractorKit-EngineSense-Board
+[submodule "TractorKit-Navis-Board"]
+	path = TractorKit-Navis-Board
+	url = git@github.com:open-agri/TractorKit-Navis-Board
